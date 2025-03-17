@@ -10,8 +10,8 @@
     "forceConsistentCasingInFileNames": true,
     "jsx": "react",
     "lib": [
-      "es6",
-      "dom"
+      "ES2017",
+      "DOM"
     ],
     "moduleResolution": "node"
   },
