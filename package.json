@@ -1,0 +1,23 @@
+{
+  "name": "aisearch-client-react-native",
+  "version": "1.0.0",
+  "description": "Aisearch SDK for integrating AI-powered search into e-commerce sites.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "react-native",
+    "ai",
+    "search",
+    "sdk",
+    "aisearch"
+  ],
+  "author": "Aisearch Team",
+  "license": "MIT"
+}
